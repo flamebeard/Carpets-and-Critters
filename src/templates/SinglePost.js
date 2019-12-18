@@ -77,7 +77,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link next"
                 to={nextPostURL}
               >
-                Next Post
+                Next
               </Link>
             )}
           </div>

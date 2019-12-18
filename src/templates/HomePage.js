@@ -10,8 +10,6 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
   <main className="Home">
     <PageHeader
       large
-      title={title}
-      subtitle={subtitle}
       backgroundImage={featuredImage}
     />
 
@@ -42,8 +40,6 @@ export const pageQuery = graphql`
       ...Meta
       html
       frontmatter {
-        title
-        subtitle
         featuredImage
       }
     }
