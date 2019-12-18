@@ -1,7 +1,7 @@
 ---
 template: BlogIndex
-title: Updates
+title: Services
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+featuredImage: 'https://ucarecdn.com/9e77cc6c-cf45-4050-9d03-4a8f28b5a68e/'
 ---
 
