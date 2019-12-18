@@ -1,8 +1,7 @@
 ---
 template: BlogIndex
-title: News
+title: Company News
 subtitle: ''
-featuredImage: >-
-  https://ucarecdn.com/db0b1431-8739-426f-970d-8a80eacf02ef/-/preview/-/rotate/270/
+featuredImage: 'https://ucarecdn.com/42316dac-5de2-48f5-8f4f-c4e640714b5e/'
 ---
 
