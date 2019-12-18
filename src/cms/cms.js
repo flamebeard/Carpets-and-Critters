@@ -9,7 +9,6 @@ import { ComponentsPageTemplate } from '../templates/ComponentsPage'
 import { ContactPageTemplate } from '../templates/ContactPage'
 import { DefaultPageTemplate } from '../templates/DefaultPage'
 import { SinglePostTemplate } from '../templates/SinglePost'
-import { ServicePageTemplate } from '../templates/ServicePage'
 
 CMS.registerMediaLibrary(uploadcare)
 
@@ -38,7 +37,4 @@ CMS.registerPreviewTemplate('infoPages', ({ entry }) => (
 ))
 CMS.registerPreviewTemplate('posts', ({ entry }) => (
   <SinglePostTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('service-page', ({ entry }) => (
-  <ServicePageTemplate {...entry.toJS().data} />
 ))
