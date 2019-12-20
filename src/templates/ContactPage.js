@@ -1,5 +1,5 @@
 import React from 'react'
-import { MapPin, Smartphone, Mail, Facebook } from 'react-feather'
+import { Smartphone, Mail, Facebook } from 'react-feather'
 import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
@@ -16,7 +16,7 @@ export const ContactPageTemplate = ({
   featuredImage,
   phone,
   email,
-  facebook,
+  facebook
 }) => (
     <main className="Contact">
       <PageHeader
@@ -41,7 +41,7 @@ export const ContactPageTemplate = ({
               )}
               {facebook && (
                 <a className="Contact--Details--Item" href={`${facebook}`}>
-                  <Facebook /> {facebook}
+                  <Facebook /> Facebook
                 </a>
               )}
             </div>
@@ -79,6 +79,7 @@ export const pageQuery = graphql`
         featuredImage
         phone
         email
+        facebook
       }
     }
   }
