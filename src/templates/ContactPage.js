@@ -1,5 +1,5 @@
 import React from 'react'
-import { MapPin, Smartphone, Mail } from 'react-feather'
+import { MapPin, Smartphone, Mail, Facebook } from 'react-feather'
 import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
@@ -16,39 +16,45 @@ export const ContactPageTemplate = ({
   featuredImage,
   phone,
   email,
+  facebook,
 }) => (
-  <main className="Contact">
-    <PageHeader
-      title={title}
-      subtitle={subtitle}
-      backgroundImage={featuredImage}
-    />
-    <section className="section Contact--Section1">
-      <div className="container Contact--Section1--Container">
-        <div>
-          <Content source={body} />
-          <div className="Contact--Details">
-            {phone && (
-              <a className="Contact--Details--Item" href={`tel:${phone}`}>
-                <Smartphone /> {phone}
-              </a>
-            )}
-            {email && (
-              <a className="Contact--Details--Item" href={`mailto:${email}`}>
-                <Mail /> {email}
-              </a>
-            )}
+    <main className="Contact">
+      <PageHeader
+        title={title}
+        subtitle={subtitle}
+        backgroundImage={featuredImage}
+      />
+      <section className="section Contact--Section1">
+        <div className="container Contact--Section1--Container">
+          <div>
+            <Content source={body} />
+            <div className="Contact--Details">
+              {phone && (
+                <a className="Contact--Details--Item" href={`tel:${phone}`}>
+                  <Smartphone /> {phone}
+                </a>
+              )}
+              {email && (
+                <a className="Contact--Details--Item" href={`mailto:${email}`}>
+                  <Mail /> {email}
+                </a>
+              )}
+              {facebook && (
+                <a className="Contact--Details--Item" href={`${facebook}`}>
+                  <Facebook /> {facebook}
+                </a>
+              )}
+            </div>
+          </div>
+
+          <div>
+            <FormSimpleAjax name="Simple Form Ajax" />
           </div>
         </div>
+      </section>
 
-        <div>
-          <FormSimpleAjax name="Simple Form Ajax" />
-        </div>
-      </div>
-    </section>
-
-  </main>
-)
+    </main>
+  )
 
 const ContactPage = ({ data: { page } }) => (
   <Layout
