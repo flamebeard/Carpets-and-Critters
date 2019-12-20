@@ -3,7 +3,7 @@ template: SinglePost
 title: Carpet Cleaning
 status: Published
 date: 2019-12-18T03:35:54.695Z
-featuredImage: 'https://ucarecdn.com/01edacfb-840d-4e42-a730-4f17a97ff9b0/'
+featuredImage: 'https://ucarecdn.com/9ac88b6e-2b0c-4818-ad8b-2d4bedf4be2d/'
 excerpt: Carpet Cleaning
 categories:
   - category: Services
