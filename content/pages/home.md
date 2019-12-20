@@ -2,6 +2,13 @@
 template: HomePage
 slug: ''
 featuredImage: 'https://ucarecdn.com/370d93a4-91fe-47b8-b228-a953fcf36860/'
+gallery:
+  - alt: Spraying
+    image: 'https://ucarecdn.com/c1e64fec-c320-4930-b508-160229d12ccb/'
+  - alt: carpet laying
+    image: 'https://ucarecdn.com/ae1b3880-825f-43e1-a00f-27f239cd7af9/'
+  - alt: cleaning
+    image: 'https://ucarecdn.com/7f0658da-f0ef-4e91-a928-d60bc9d7e612/'
 meta:
   description: This is a meta description.
   title: Carpets and Critters
