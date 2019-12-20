@@ -7,6 +7,7 @@ subtitle: '### We''d love to here from you, get in touch with us!'
 address: '404 James St, Burleigh Heads QLD 4220'
 phone: 021 434 286
 email: info@carpetsandcritters.co.nz
+facebook: 'https://facebook.com/carpetsandcrittersnz'
 locations:
   - lat: '-27.9654732'
     lng: '153.2432449'
