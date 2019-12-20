@@ -159,6 +159,7 @@ collections: # A list of collections the CMS should be able to edit
           - label: 'Gallery'
             name: 'gallery'
             widget: 'list'
+            required: false
             fields:
               - { name: image, label: Image, widget: image }
               - { name: alt, label: Alt, widget: string }
