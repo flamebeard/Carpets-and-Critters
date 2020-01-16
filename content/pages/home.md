@@ -8,7 +8,7 @@ gallery:
   - alt: carpet laying
     image: 'https://ucarecdn.com/ae1b3880-825f-43e1-a00f-27f239cd7af9/'
   - alt: cleaning
-    image: 'https://ucarecdn.com/7f0658da-f0ef-4e91-a928-d60bc9d7e612/'
+    image: 'https://ucarecdn.com/ee139725-7476-4237-8015-a0786ab8ed26/'
 meta:
   description: This is a meta description.
   title: Carpets and Critters
