@@ -19,4 +19,4 @@ categories:
 
 Do you have bulging or rippled carpet in your home? Do you have a permanent stain or damaged carpet that needs repairing? Has recent renovations required your carpet to be patched or relaid. 
 
-Carpets & Critters are the experts in all carpet repairs
+Carpets & Critters are the experts in all carpet repairs including **Re stretching & patching.** Why replace your carpet when we can repair it for you saving you thousands of dollars.
