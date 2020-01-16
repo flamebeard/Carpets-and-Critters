@@ -12,7 +12,7 @@ categories:
 
 * **New & used carpet installation -** So your looking at replacing your carpet? From small one bedroom sleep-outs to full house lots, Carpets & Critters offers our professional carpet laying services. 
 
-  We have a large range of high quality carpets that we supply direct to our clients, from entry level synthetics to high end wool fibers, carpet tiles to garage carpet we can supply and lay carpet that meets your budget and requirements.
+  We have a large range of high quality carpets that we supply direct to our clients, from entry level synthetics to high end wool fibers, carpet tiles to garage carpet, we can supply and lay a carpet that meets your budget and requirements.
 
   We remove all the stress and hassle, call today to arrange a no obligation free Quote 
 * **Carpet Repairs** 
