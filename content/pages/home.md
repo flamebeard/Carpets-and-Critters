@@ -24,6 +24,6 @@ We are proud to provide our customers in the Eastern bay of plenty with a highly
 * **New carpet installations** 
 * **Specializing in all carpet repairs & re-stretching issues**
 
-We have the skills, equipment and experience ensure your job is handled with complete professionalism and completed to the highest industry standard, you can feel comfortable you are working with the experts.
+We have the skills, equipment and experience to ensure your job is handled with complete professionalism and completed to the highest industry standard, you can feel comfortable you are working with the experts.
 
 ![](https://ucarecdn.com/a9dec9a8-def1-420f-b818-85420a5bc4f0/)
