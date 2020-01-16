@@ -12,6 +12,4 @@ meta:
   description: This is a meta description.
   title: Contact Page
 ---
-
-
-# **If you have any queries or would like to schedule a service, call us or email us today.**
+# **If you have any queries or would like to schedule a service, call or email us today.**
