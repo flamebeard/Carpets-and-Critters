@@ -8,9 +8,13 @@ excerpt: Carpet Cleaning
 categories:
   - category: Services
 ---
-Whether it is your commercial premises or precious family home your carpets requires regular cleaning.
 
-This not only keeps your home or office healthier and looking more attractive but also protects the life of your investment. Your carpets are subject to more wear and tear than any other item in your home. To keep your carpets free of allergens and dirt your carpets need to be cleaned every 6-12 months.
+
+
+
+> #### **Whether it is your commercial premises or precious family home you can trust Carpets & Critters professional cleaning service to restore and refresh your carpet & Upholstery** 
+
+Your carpets requires regular cleaning. This not only keeps your home or office healthier and looking more attractive but also protects the life of your investment. Your carpets are subject to more wear and tear than any other item in your home. To keep your carpets free of allergens and dirt your carpets need to be cleaned every 6-12 months.
 
 Carpets & Critters uses the Hot water extraction method or as many of our customers know it as “Steam cleaning” to remove deep soiling.
 
