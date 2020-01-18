@@ -24,4 +24,4 @@ As the owner operator of Carpets & Critters your technician Tony Hatton has heav
 
 Our equipment is modern and clean. We keep up to date with the latest technology, equipment, and products.
 
-We pride ourselves in offering our clients the very best cleaning service.
+We pride ourselves in offering our clients the very best cleaning service, call us today for a no obligation free quote.
