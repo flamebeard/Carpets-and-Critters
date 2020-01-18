@@ -8,7 +8,7 @@ excerpt: Pest Control
 categories:
   - category: Services
 ---
-So you’re having trouble with pests?
+> #### So you’re having trouble with pests?
 
 We understand your frustration.  There is no place for unwanted pests in your home or business. Now is the time to send them packing with safe, efficient and cost effective pest control solutions from a highly trusted and experienced company.
 
