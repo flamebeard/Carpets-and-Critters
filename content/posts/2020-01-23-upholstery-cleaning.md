@@ -8,6 +8,6 @@ excerpt: EXCERPT
 categories:
   - category: Services
 ---
-> #### Carpets & Critters professional upholstery & mattress cleaning service 
+> #### Carpets & Critters professional upholstery & mattress cleaning service
 
-Whether its your family lounge suites, dining room chairs, office furniture, mattress or vehicle interiors trust Carpets & Critters to handle and clean your delicate fibers. Carpets & Critters are the experts in upholstery cleaning, your technician Tony Hatton has International qualifications through IICRC, we us the correct products and cleaning methods to ensure your upholstery is handled with care and is left looking like new again.
+Whether its your family lounge suites, dining room chairs, office furniture, mattress or vehicle interiors trust Carpets & Critters to handle and clean your delicate fibers. Carpets & Critters are the experts in upholstery cleaning, your technician Tony Hatton has International qualifications through IICRC, we use the correct products and cleaning methods to ensure your upholstery is handled with care and is left looking like new again.
