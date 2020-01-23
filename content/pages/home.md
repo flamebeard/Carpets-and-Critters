@@ -19,10 +19,12 @@ We are proud to provide our customers in the Eastern bay of plenty with a highly
 
 **Servicing Opotiki, Ohope, Whakatane, Kawerau and surrounding areas with professional** 
 
-* **Carpet & upholstery cleaning** 
+* **Carpet & upholstery cleaning**
+* **Flood restoration** 
 * **Domestic & commercial pest management**
+* **Carpet re-stretching** 
+* **Carpet Patching & repairs** 
 * **New carpet installations** 
-* **Specializing in all carpet repairs & re-stretching issues**
 
 We have the skills, equipment and experience to ensure your job is handled with complete professionalism and completed to the highest industry standard, you can feel comfortable you are working with the experts.
 
