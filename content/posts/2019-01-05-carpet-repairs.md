@@ -2,7 +2,7 @@
 template: SinglePost
 title: Carpet Laying & Repairs
 status: Published
-date: 2019-12-18T04:04:46.830Z
+date: 2019-01-05T04:04:46.830Z
 featuredImage: 'https://ucarecdn.com/5331f262-a164-41fc-a35b-a6f2324ad851/'
 excerpt: Carpet Repairs/ Removal
 categories:
