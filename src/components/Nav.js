@@ -44,6 +44,8 @@ export class Navigation extends Component {
 
     return (
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
+      <div className="full-width-phone">Call Now 021 711 656</div>
+
         <div className="Nav--Container container">
           <Link to="/" onClick={this.handleLinkClick}>
             <Logo />
